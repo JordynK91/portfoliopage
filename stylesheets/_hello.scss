@@ -1,5 +1,6 @@
 body {
 	background-color: red;
+	font-family: helvetica, sans-serif;
 }
 
 .header h1{
@@ -14,7 +15,7 @@ body {
 }
 
 #name {
-	color: white;
+	color: ivory;
 }
 
 #arrow{
@@ -28,7 +29,22 @@ body {
 }
 
 #about {
-	background-color: white;
-	height: 500px;
+	background-color: ivory;
+	height: 800px;
 }
+
+#projects {
+	height: 1000px;
+}
+
+#contact {
+	background-color: red;
+	height: 300px;
+}
+
+#resume {
+	width: 200px;
+	height: 200px;
+}
+
 

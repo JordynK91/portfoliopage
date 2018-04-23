@@ -6,7 +6,8 @@
   padding: 10px; }
 
 body {
-  background-color: red; }
+  background-color: red;
+  font-family: helvetica, sans-serif; }
 
 .header h1 {
   background-color: red;
@@ -18,7 +19,7 @@ body {
   height: 600px; }
 
 #name {
-  color: white; }
+  color: ivory; }
 
 #arrow {
   font-size: 100px;
@@ -29,13 +30,24 @@ body {
   text-align: center; }
 
 #about {
-  background-color: white;
-  height: 500px; }
+  background-color: ivory;
+  height: 800px; }
+
+#projects {
+  height: 1000px; }
+
+#contact {
+  background-color: red;
+  height: 300px; }
+
+#resume {
+  width: 200px;
+  height: 200px; }
 
 #myCarousel {
   border: solid;
   width: 90%;
-  height: 500px;
+  height: 600px;
   background-color: black;
   margin: 0 auto; }
 

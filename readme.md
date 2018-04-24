@@ -1,0 +1,2 @@
+Resume image from <a href = https://thenounproject.com/grega.cresnar/>Gregor Cresnar</a> at the Noun Project
+Email image from <a href = https://thenounproject.com/rockicon/rockicon/> rockicon</a> at the Noun Project

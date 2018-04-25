@@ -1,0 +1,43 @@
+body {
+	background-color: ivory;
+}
+.navbar {
+      margin-bottom: 0;
+      border-radius: 0;
+    }
+    
+footer {
+      padding: 25px;
+      height: 150px;
+    }
+
+#name {
+	color: ivory;
+}
+
+.jumbotron {
+	background-color: #e83a30;
+	height: 500px;
+}
+
+.photo {
+	border-radius: 50%;
+	height: 400px;
+	width: 400px;
+}
+
+.bio {
+ padding-left:120px;
+ padding-right: 120px;
+ padding-top: 100px;
+ padding-bottom: 30px;
+
+ font-size: 20px;
+ font-family: 'garamond';
+}
+
+.textheader {
+	font-size: 50px;
+}
+
+

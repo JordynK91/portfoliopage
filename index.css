@@ -6,10 +6,6 @@ body {
       border-radius: 0;
     }
     
-footer {
-      padding: 25px;
-      height: 150px;
-    }
 
 #name {
 	color: ivory;
@@ -36,8 +32,20 @@ footer {
  font-family: 'garamond';
 }
 
+#icons {
+padding: 20px;
+}
+
 .textheader {
 	font-size: 50px;
 }
 
+hr {
+	border-color: black;
+}
 
+footer {
+	background-color: black;
+	text-align: center;
+	color: ivory;
+}

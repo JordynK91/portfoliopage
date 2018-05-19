@@ -1,5 +1,7 @@
 body {
 	background-color: ivory;
+	margin: 0px;
+	padding: 0px;
 }
 .navbar {
       margin-bottom: 0;
@@ -32,10 +34,6 @@ body {
  font-family: 'garamond';
 }
 
-#icons {
-padding: 20px;
-}
-
 .textheader {
 	font-size: 50px;
 }
@@ -48,4 +46,17 @@ footer {
 	background-color: black;
 	text-align: center;
 	color: ivory;
+	width: 100%;
+	margin: 0px;
+	padding: 0px;
+
+}
+
+h4 {
+	font-size: 40px;
+	font-family: 'helvetica';
+}
+
+i {
+	padding: 5px;
 }
